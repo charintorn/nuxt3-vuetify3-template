@@ -1,0 +1,1 @@
+export { default } from "file:///home/differ/Projects/Web/nuxt3-vuetify3-template/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
